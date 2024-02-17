@@ -1,0 +1,10 @@
+school
+student
+university
+education
+teacher
+learning
+curriculum
+online
+international
+kid
